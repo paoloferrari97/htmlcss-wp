@@ -98,6 +98,7 @@
 }
 .main_conteiner h4 {
     color: black;
+    padding-bottom: 20px;
 }
 .aside_left, .aside_right{
     width: 20%;
@@ -169,5 +170,13 @@ footer{
     border: 3px solid darksalmon; */
     width: 100%;
     /* height: 56px; */
+    margin-top: 20px;
+    text-align: center;
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+footer > span{
+    color: red;
 }
 /* /footer site */
